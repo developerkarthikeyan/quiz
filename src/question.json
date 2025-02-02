@@ -1,0 +1,69 @@
+ [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "Which data structure follows the LIFO principle?",
+        "options": ["Queue", "Stack", "Linked List", "Heap"],
+        "correct_answer": "Stack"
+      },
+      {
+        "id": 3,
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+        "correct_answer": "Albert Einstein"
+      },
+      {
+        "id": 4,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars"
+      },
+      {
+        "id": 5,
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "Hyper Transfer Markup Language",
+          "High-Level Text Management Language",
+          "Home Tool Markup Language"
+        ],
+        "correct_answer": "Hyper Text Markup Language"
+      },
+      {
+        "id": 6,
+        "question": "Which programming language is known for its use in web development?",
+        "options": ["Python", "C++", "JavaScript", "Swift"],
+        "correct_answer": "JavaScript"
+      },
+      {
+        "id": 7,
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Pb", "Fe"],
+        "correct_answer": "Au"
+      },
+      {
+        "id": 8,
+        "question": "Which company developed the Windows operating system?",
+        "options": ["Apple", "IBM", "Microsoft", "Google"],
+        "correct_answer": "Microsoft"
+      },
+      {
+        "id": 9,
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct_answer": "Pacific Ocean"
+      },
+      {
+        "id": 10,
+        "question": "Which data structure is used for implementing recursion?",
+        "options": ["Queue", "Stack", "Array", "Graph"],
+        "correct_answer": "Stack"
+      }
+    ]
+  
+  
